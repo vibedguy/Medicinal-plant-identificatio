@@ -61,4 +61,4 @@ model.fit(train_generator, epochs=epochs)
 # Save the trained model for later use
 model.save('plant_classification_model.h5')
 
-print("Training complete. Model saved as 'plant_classification_model.h5")
+print("Training complete. Model saved as 'Training_model.h5")
